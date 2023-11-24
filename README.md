@@ -5,3 +5,10 @@ This repository contains a listing of bad/malicious/favourite word here web exte
 I am not responsible if I manage to miss out on a few of them as you may have downloaded them before it getting flagged. I am not omnipotent alright?
 
 Pull requests are always welcome!
+
+## Sources
+https://github.com/mallorybowes/chrome-mal-ids
+
+## TODO
+- [ ] Base template
+- [ ] ID resolver from google?
